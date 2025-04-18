@@ -1,0 +1,182 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "00bbe25f-ed3e-470c-ab73-6f3ea4c5406d")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 52.705 90.805)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0dbf9eb4-6e32-4939-8b33-2a47c39a28d8")
+		(property "Sheetname" "Filtri bande alte 2"
+			(at 52.705 90.0934 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "filrri_alte.kicad_sch"
+			(at 52.705 95.1996 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "my_bpf"
+				(path "/00bbe25f-ed3e-470c-ab73-6f3ea4c5406d"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 52.07 66.04)
+		(size 21.59 13.97)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "14de52ea-3108-48b3-bd61-dcaebe548b0a")
+		(property "Sheetname" "160"
+			(at 52.07 65.3284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "160.kicad_sch"
+			(at 52.07 80.5946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "my_bpf"
+				(path "/00bbe25f-ed3e-470c-ab73-6f3ea4c5406d"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 52.07 15.24)
+		(size 19.05 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4e9ca870-4c64-4bf5-a296-b166d6dba06d")
+		(property "Sheetname" "filtri"
+			(at 52.07 14.5284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "filtri.kicad_sch"
+			(at 52.07 28.5246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "my_bpf"
+				(path "/00bbe25f-ed3e-470c-ab73-6f3ea4c5406d"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 52.07 40.64)
+		(size 20.32 13.97)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c49ef19f-913a-4727-bf0a-6aa5904ffde0")
+		(property "Sheetname" "logica"
+			(at 52.07 39.9284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "logica.kicad_sch"
+			(at 52.07 55.1946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "my_bpf"
+				(path "/00bbe25f-ed3e-470c-ab73-6f3ea4c5406d"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

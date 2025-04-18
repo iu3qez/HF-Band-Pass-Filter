@@ -1,0 +1,182 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "fc17e25b-76e1-4a17-a9cd-2b8056f139ef")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 33.02 26.67)
+		(size 36.83 28.575)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4f3f64d8-3691-4950-9423-074a51a04cca")
+		(property "Sheetname" "17_15metri"
+			(at 33.02 25.9584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "17_15metri.kicad_sch"
+			(at 33.02 55.8296 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "RF_IN" input
+			(at 33.02 35.56 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "44956f71-ee2b-47af-9c74-6b32c4cbf242")
+		)
+		(pin "RF_OUT" output
+			(at 33.02 43.18 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "18d61815-382b-45f8-89e1-d121b4371fd5")
+		)
+		(instances
+			(project "my_bpf"
+				(path "/00bbe25f-ed3e-470c-ab73-6f3ea4c5406d/b3d28850-c1ae-499e-a4ff-083a13dddbb0"
+					(page "11")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 33.02 67.31)
+		(size 36.83 28.575)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "993383b1-a1ba-4483-9753-6200d2e6ca05")
+		(property "Sheetname" "17_15metri1"
+			(at 33.02 66.5984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "17_15metri.kicad_sch"
+			(at 33.02 96.4696 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "RF_IN" input
+			(at 33.02 76.2 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "62b0eb08-93ba-4399-8bad-1dda66dc35e1")
+		)
+		(pin "RF_OUT" output
+			(at 33.02 83.82 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "e0156816-81bc-40e0-8147-572969c874a8")
+		)
+		(instances
+			(project "my_bpf"
+				(path "/00bbe25f-ed3e-470c-ab73-6f3ea4c5406d/b3d28850-c1ae-499e-a4ff-083a13dddbb0"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 33.02 106.68)
+		(size 36.83 28.575)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "df3e2303-6e24-4a0b-b41e-6c587c9dcd3e")
+		(property "Sheetname" "17_15metri2"
+			(at 33.02 105.9684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "17_15metri.kicad_sch"
+			(at 33.02 135.8396 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "RF_IN" input
+			(at 33.02 115.57 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "8dff53d0-c125-4f33-93d7-c7cc2cb7e46d")
+		)
+		(pin "RF_OUT" output
+			(at 33.02 123.19 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "ad192fdf-d3d5-46fd-b689-9a082d0cbdfd")
+		)
+		(instances
+			(project "my_bpf"
+				(path "/00bbe25f-ed3e-470c-ab73-6f3ea4c5406d/b3d28850-c1ae-499e-a4ff-083a13dddbb0"
+					(page "8")
+				)
+			)
+		)
+	)
+)
